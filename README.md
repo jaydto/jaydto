@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jaydto
-- 👀 I’m interested in front end development
-- 🌱 I’m currently learning ...
+- 👀 I’m interested in BackEnd Development
+- 🌱 I have 2 years of Experience
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me :
 - via phone +254795983399
