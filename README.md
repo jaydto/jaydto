@@ -1,5 +1,5 @@
 - 👋 Hi, I’m John Chege
- Innovative Software Developer with demonstrated background designing, debugging and deploying software for client
+-Innovative Software Developer with demonstrated background designing, debugging and deploying software for client
 and server applications. Exhibits customer-centric focus and excellent project management skills. Proven experience
 working with deadlines and interruptions.
 - 🌱 I have 2 years of Experience
