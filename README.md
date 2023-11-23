@@ -2,7 +2,7 @@
 # Hey, Engineers! <img src="wave.gif" width="30px">
 I'm a seasoned Software Engineer with a knack for crafting powerful REST APIs and orchestrating robust infrastructure. Currently, I thrive at Betnare, pouring my expertise into shaping cutting-edge solutions. My journey has woven through various landscapes, leaving footprints at Beyond InToch and more.
 
-[![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
+<!--[![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].-->
 
 ## 🔧 Technologies & Tools
 [![Python](https://img.shields.io/badge/python-3.7%20%7C%203.8%20%7C%203.9%20%7C%203.10-blue)](https://www.python.org)
