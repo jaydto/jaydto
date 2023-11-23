@@ -12,7 +12,10 @@ I'm a seasoned Software Engineer with a knack for crafting powerful REST APIs an
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white)
 ![React.js](https://img.shields.io/badge/REACTJS-%2335495e.svg?style=for-the-badge&logo=react&logoColor=%234FC08D)
-![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+![Flutter](https://img.shields.io/badge/Flutter-%2335495e.svg?style=for-the-badge&logo=flutter&logoColor=%234FC08D)
+![React Native](https://img.shields.io/badge/React-Native-%2335495e.svg?style=for-the-badge&logo=react-native&logoColor=%234FC08D)
+![Android](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+![Vue.js](https://img.shields.io/badge/Android-%2335495e.svg?style=for-the-badge&logo=android&logoColor=%234FC08D)
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 ![AWS](https://img.shields.io/badge/aws-%298729.svg?style=for-the-badge&logo=AWS&logoColor=white)
@@ -36,6 +39,23 @@ I'm a seasoned Software Engineer with a knack for crafting powerful REST APIs an
 ![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=aws&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Cloud-GCP-informational?style=flat&logo=gcp&logoColor=white&color=2bbc8a)
+
+
+## 🚀 Technical Expertise
+
+My proficiency lies in:
+
+- **RESTful APIs:** Designing and developing scalable REST APIs that power modern applications.
+
+- **FrontEnd:** Designing and developing Beautiful Ui's.
+
+- **Mobile:** Fast and Performant Mobile applications.
+
+- **Infrastructure Provisioning:** Embracing DevOps principles to architect and manage resilient infrastructure.
+
+## 😄 Fun Facts
+
+Beyond the lines of code, I bring an infectious sense of humor to the table. I firmly believe that a lighthearted atmosphere is the breeding ground for creativity and productivity.
 
 ## &#x1f4c8; GitHub Stats
 
