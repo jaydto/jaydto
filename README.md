@@ -52,6 +52,7 @@ My proficiency lies in:
 - **Mobile:** Fast and Performant Mobile applications.
 
 - **Infrastructure Provisioning:** Embracing DevOps principles to architect and manage resilient infrastructure.
+  **I can go on, but reach out to know my full knacks from sockets, messasging, ml and ...**
 
 ## 😄 Fun Facts
 
