@@ -1,4 +1,4 @@
-<!-- [![Header](https://raw.githubusercontent.com/joseph-njogu/joseph-njogu/main/readme_header.png "Header")] -->
+<!-- [![Header](https://raw.githubusercontent.com/jaydto/main/readme_header.png "Header")] -->
 # Hey, Engineers! <img src="wave.gif" width="30px">
 I'm a seasoned Software Engineer with a knack for crafting powerful REST APIs and orchestrating robust infrastructure. Currently, I thrive at Betnare, pouring my expertise into shaping cutting-edge solutions. My journey has woven through various landscapes, leaving footprints at Beyond InToch and more.
 
