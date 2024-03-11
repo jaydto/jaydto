@@ -10,7 +10,7 @@ I'm a seasoned Software Engineer with a knack for crafting powerful REST APIs an
 ![FlaskREST](https://img.shields.io/badge/FLASK-REST-ff1709?style=for-the-badge&logo=flask&logoColor=white&color=ff1709&labelColor=gray)
 ![FlaskREST](https://img.shields.io/badge/SPRING--REST-ff1709?style=for-the-badge&logo=spring&logoColor=white&color=ff1709&labelColor=gray)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![Laravel](https://img.shields.io/badge/laravel-%23092E20.svg?style=for-the-badge&logo=laravel&logoColor=red)
+![Laravel](https://img.shields.io/badge/laravel-%2335495e.svg?style=for-the-badge&logo=laravel&logoColor=red)
 ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white)
 ![React.js](https://img.shields.io/badge/REACTJS-%2335495e.svg?style=for-the-badge&logo=react&logoColor=%234FC08D)
 ![Flutter](https://img.shields.io/badge/Flutter-%2335495e.svg?style=for-the-badge&logo=flutter&logoColor=%234FC08D)
