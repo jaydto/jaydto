@@ -8,7 +8,7 @@ I'm a seasoned Software Engineer with a knack for crafting powerful REST APIs an
 [![Python](https://img.shields.io/badge/python-3.7%20%7C%203.8%20%7C%203.9%20%7C%203.10-blue)](https://www.python.org)
 ![CircleCI](https://img.shields.io/badge/circle%20ci-%23161616.svg?style=for-the-badge&logo=circleci&logoColor=white)
 ![FlaskREST](https://img.shields.io/badge/FLASK-REST-ff1709?style=for-the-badge&logo=flask&logoColor=white&color=ff1709&labelColor=gray)
-![SpringREST](https://img.shields.io/badge/SPRING-BOOT-REST-ff1709?style=for-the-badge&logo=spring&logoColor=white&color=ff1709&labelColor=gray)
+![SpringREST](https://img.shields.io/badge/SPRING-BOOT-ff1709?style=for-the-badge&logo=spring&logoColor=white&color=ff1709&labelColor=gray)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![Laravel](https://img.shields.io/badge/laravel-%2335495e.svg?style=for-the-badge&logo=laravel&logoColor=red)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
