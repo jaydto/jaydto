@@ -17,6 +17,7 @@ I'm a seasoned Software Engineer with a knack for crafting powerful REST APIs an
 ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white)
 ![RxJS](https://img.shields.io/badge/rxjs-%23B7178C.svg?style=for-the-badge&logo=reactivex&logoColor=white)
 ![React.js](https://img.shields.io/badge/REACTJS-%2335495e.svg?style=for-the-badge&logo=react&logoColor=%234FC08D)
+![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-593D88.svg?style=for-the-badge&logo=redux&logoColor=%234FC08D)
 ![Vue.js](https://img.shields.io/badge/Android-%2335495e.svg?style=for-the-badge&logo=android&logoColor=%234FC08D)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
