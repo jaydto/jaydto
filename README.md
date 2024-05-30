@@ -1,5 +1,5 @@
 <!-- [![Header](https://raw.githubusercontent.com/jaydto/main/readme_header.png "Header")] -->
-# Greetings, Engineers and Innovators! 🚀! <img src="wave.gif" width="30px">
+# Greetings, Engineers and Innovators! 🚀 <img src="wave.gif" width="30px">
 I'm an experienced Software Engineer with a passion for building high-performing REST APIs and architecting resilient infrastructure. At Betnare, I'm fully immersed in pushing the boundaries of innovation, channeling my expertise into crafting next-level solutions.
 
 <!--[![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].-->
