@@ -1,6 +1,6 @@
 <!-- [![Header](https://raw.githubusercontent.com/jaydto/main/readme_header.png "Header")] -->
-# Hey, Engineers! <img src="wave.gif" width="30px">
-I'm a seasoned Software Engineer with a knack for crafting powerful REST APIs and orchestrating robust infrastructure. Currently, I thrive at Betnare, pouring my expertise into shaping cutting-edge solutions. My journey has woven through various landscapes, leaving footprints at Beyond InToch and more.
+# Greetings, Engineers and Innovators! 🚀! <img src="wave.gif" width="30px">
+I'm an experienced Software Engineer with a passion for building high-performing REST APIs and architecting resilient infrastructure. At Betnare, I'm fully immersed in pushing the boundaries of innovation, channeling my expertise into crafting next-level solutions.
 
 <!--[![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].-->
 
@@ -72,21 +72,17 @@ I'm a seasoned Software Engineer with a knack for crafting powerful REST APIs an
 
 ## 🚀 Technical Expertise
 
-My proficiency lies in:
+### My expertise encompasses:
 
-- **RESTful APIs:** Designing and developing scalable REST APIs that power modern applications.
+- RESTful APIs: Crafting scalable, efficient REST APIs pivotal in modern application development.
 
-- **FrontEnd:** Designing and developing Beautiful Ui's.
+- FrontEnd: Engineering visually stunning and user-friendly UI designs.
 
-- **Mobile:** Fast and Performant Mobile applications.
+- Mobile: Delivering rapid and high-performing mobile applications for seamless user experiences.
 
-- **Infrastructure Provisioning:** Embracing DevOps principles to architect and manage resilient infrastructure.
-  
-  **I can go on, but reach out to know my full knacks from sockets, messasging, ml and ...**
+- Infrastructure Provisioning: Implementing DevOps methodologies to architect and manage resilient infrastructure.
 
-## 😄 Fun Facts
-
-Beyond the lines of code, I bring an infectious sense of humor to the table. I firmly believe that a lighthearted atmosphere is the breeding ground for creativity and productivity.
+Want to delve deeper? Reach out to uncover my full range of skills, spanning sockets, messaging, machine learning, and more.
 
 ## &#x1f4c8; GitHub Stats
 
