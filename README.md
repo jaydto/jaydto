@@ -75,6 +75,9 @@ I'm an experienced Software Engineer with a passion for building high-performing
 ![FlaskREST](https://img.shields.io/badge/FLASK-REST-ff1709?style=for-the-badge&logo=flask&logoColor=white&color=ff1709&labelColor=gray)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![SpringREST](https://img.shields.io/badge/SPRING-BOOT-ff1709?style=for-the-badge&logo=spring&logoColor=white&color=ff1709&labelColor=gray)
+![Laravel](https://img.shields.io/badge/laravel-%2335495e.svg?style=for-the-badge&logo=laravel&logoColor=red)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 
 #### Frontend Frameworks/Libraries:
 ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white)
@@ -115,7 +118,7 @@ I'm an experienced Software Engineer with a passion for building high-performing
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Python](https://img.shields.io/badge/python-3.7%20%7C%203.8%20%7C%203.9%20%7C%203.10-blue)]
+![Python](https://img.shields.io/badge/python-3.7%20%7C%203.8%20%7C%203.9%20%7C%203.10-blue)
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 
 ### Databases
